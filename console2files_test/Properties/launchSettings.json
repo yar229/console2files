@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "console2files_test": {
+      "commandName": "Project",
+      "commandLineArgs": " | console2files.exe --files \"x.log\", \"y.log\""
+    }
+  }
+}
